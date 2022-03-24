@@ -1,6 +1,6 @@
 - 👋 Hello, je suis @laetitiaGabreau
 - 👀 Je suis interessée par l'innovation d'intérêt général
-- 🌱 Actuellement chargée de support et déploiement sur les SE PsyEnfantAdo et InfoParquet
+- 🌱 Actuellement chargée de support et déploiement sur les SE MonPsy et InfoParquet
 - ✨ Passionnée par la facilitation graphique
 
 <!---
